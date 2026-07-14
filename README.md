@@ -41,7 +41,7 @@ http://localhost:8000
 Open another terminal and navigate to the frontend directory:
 
 ```bash
-cd client
+cd frontend
 ```
 
 Install dependencies:
